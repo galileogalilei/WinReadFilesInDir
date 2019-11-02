@@ -1,0 +1,11 @@
+C:\Apache24\htdocs\ReadFilesInDir\bin\Release\netcoreapp3.0\ReadFilesInDir.exe
+C:\Apache24\htdocs\ReadFilesInDir\bin\Release\netcoreapp3.0\ReadFilesInDir.deps.json
+C:\Apache24\htdocs\ReadFilesInDir\bin\Release\netcoreapp3.0\ReadFilesInDir.runtimeconfig.json
+C:\Apache24\htdocs\ReadFilesInDir\bin\Release\netcoreapp3.0\ReadFilesInDir.runtimeconfig.dev.json
+C:\Apache24\htdocs\ReadFilesInDir\bin\Release\netcoreapp3.0\ReadFilesInDir.dll
+C:\Apache24\htdocs\ReadFilesInDir\bin\Release\netcoreapp3.0\ReadFilesInDir.pdb
+C:\Apache24\htdocs\ReadFilesInDir\obj\Release\netcoreapp3.0\ReadFilesInDir.AssemblyInfoInputs.cache
+C:\Apache24\htdocs\ReadFilesInDir\obj\Release\netcoreapp3.0\ReadFilesInDir.AssemblyInfo.cs
+C:\Apache24\htdocs\ReadFilesInDir\obj\Release\netcoreapp3.0\ReadFilesInDir.dll
+C:\Apache24\htdocs\ReadFilesInDir\obj\Release\netcoreapp3.0\ReadFilesInDir.pdb
+C:\Apache24\htdocs\ReadFilesInDir\obj\Release\netcoreapp3.0\ReadFilesInDir.csprojAssemblyReference.cache
